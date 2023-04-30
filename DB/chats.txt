@@ -1,0 +1,103 @@
+[
+  {
+    "id": "mensajes",
+    "mensajes": [
+      {
+        "id": "1",
+        "author": {
+          "id": "robercepp@hotmail.com",
+          "nombre": "ROBERTINO",
+          "apellido": "CEPPARO",
+          "edad": "35",
+          "alias": "robercepp",
+          "avatar": "https://img.freepik.com/foto-gratis/retrato-hombre-blanco-aislado_53876-40306.jpg?size=626&ext=jpg"
+        },
+        "text": "Mensaje de prueba de persistencia de memoria"
+      },
+      {
+        "id": "2",
+        "author": {
+          "id": "hernesto-guevara@yahoo.com",
+          "nombre": "Hernesto",
+          "apellido": "Guevara",
+          "edad": "39",
+          "alias": "hernie",
+          "avatar": "https://img.freepik.com/foto-gratis/chico-worldface-espanol-fondo-blanco_53876-137665.jpg?size=338&ext=jpg"
+        },
+        "text": "Parece que funciona bien"
+      },
+      {
+        "id": "3",
+        "author": {
+          "id": "michelle-hoover@gmail.com",
+          "nombre": "Michelle",
+          "apellido": "Hoover",
+          "edad": "22",
+          "alias": "M_Hoover",
+          "avatar": "https://img.freepik.com/fotos-premium/ilustracion-chica-anime_796245-2.jpg?size=338&ext=jpg"
+        },
+        "text": "Manos a la obra pues!!"
+      },
+      {
+        "id": "4",
+        "author": {
+          "id": "robercepp@hotmail.com",
+          "nombre": "ROBERTINO",
+          "apellido": "CEPPARO",
+          "edad": "35",
+          "alias": "robercepp",
+          "avatar": "https://img.freepik.com/foto-gratis/retrato-hombre-blanco-aislado_53876-40306.jpg?size=626&ext=jpg"
+        },
+        "text": "Prueba de normalizr"
+      },
+      {
+        "id": "5",
+        "author": {
+          "id": "hernesto-guevara@yahoo.com",
+          "nombre": "Hernesto",
+          "apellido": "Guevara",
+          "edad": "39",
+          "alias": "hernie",
+          "avatar": "https://img.freepik.com/foto-gratis/chico-worldface-espanol-fondo-blanco_53876-137665.jpg?size=338&ext=jpg"
+        },
+        "text": "Aquí va otra prueba de normalizr"
+      },
+      {
+        "author": {
+          "id": "robercepp@hotmail.com",
+          "nombre": "ROBERTINO",
+          "apellido": "CEPPARO",
+          "edad": "35",
+          "alias": "robercepp",
+          "avatar": "https://img.freepik.com/foto-gratis/retrato-hombre-blanco-aislado_53876-40306.jpg?size=626&ext=jpg"
+        },
+        "text": "esto está andando muy bien!!",
+        "id": 6
+      },
+      {
+        "author": {
+          "id": "hernesto-guevara@yahoo.com",
+          "nombre": "Hernesto",
+          "apellido": "Guevara",
+          "edad": "39",
+          "alias": "hernie",
+          "avatar": "https://img.freepik.com/foto-gratis/chico-worldface-espanol-fondo-blanco_53876-137665.jpg?size=338&ext=jpg"
+        },
+        "text": "Excelente!!, costó mucho entender el concepto, pero logramos enviar datos normalizados y recuperarlos. todo con una compresión del 73%!",
+        "id": 7
+      },
+      {
+        "author": {
+          "id": "michelle-hoover@gmail.com",
+          "nombre": "Michelle",
+          "apellido": "Hoover",
+          "edad": "22",
+          "alias": "M_Hoover",
+          "avatar": "https://img.freepik.com/fotos-premium/ilustracion-chica-anime_796245-2.jpg?size=338&ext=jpg"
+        },
+        "text": "Noten que mientras mas mensajes hay, mayor es el ratio de compresión, esto se pone interesante!",
+        "id": 8
+      }
+    ]
+  }
+]

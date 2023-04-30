@@ -1,0 +1,38 @@
+{
+  "name": "entrega14",
+  "version": "1.0.0",
+  "description": "desafío de clase 46",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "author": "Robertino Cepparo",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "7.6.0",
+    "bcryptjs": "2.4.3",
+    "compression": "1.7.4",
+    "connect-mongo": "5.0.0",
+    "dotenv": "16.0.3",
+    "koa": "2.14.2",
+    "koa-bodyparser": "4.4.0",
+    "koa-connect-flash": "0.1.2",
+    "koa-cookie": "1.0.0",
+    "koa-methodoverride": "2.0.0",
+    "koa-passport": "6.0.0",
+    "koa-router": "12.0.0",
+    "koa-session": "6.4.0",
+    "koa-session-mongoose": "3.0.1",
+    "koa-static": "5.0.0",
+    "koa-views": "8.0.0",
+    "mongoose": "7.1.0",
+    "normalizr": "3.6.2",
+    "nunjucks": "3.2.4",
+    "passport": "0.6.0",
+    "passport-local": "1.0.0",
+    "socket.io": "4.6.1",
+    "winston": "3.8.2",
+    "yargs": "17.7.2"
+  }
+}
